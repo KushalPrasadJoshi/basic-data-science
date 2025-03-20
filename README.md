@@ -4,7 +4,7 @@ Basic understanding and implementation of data science and machine learning usin
 ### NOTE
 This repo has only the practical implementations of the basic-data-science.
 
-For the theory, check the [basic-data-science](/resources/basic-data-science) guide.
+For the theory, check the [basic-data-science](/resources/basic-data-science.pdf) handwritten guide.
 
 ---
 
