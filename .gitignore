@@ -12,4 +12,5 @@ tempCodeRunnerFile.*
 *.jpeg
 
 # Track all the assets
-!assets/*
+!/assets/**/*
+
