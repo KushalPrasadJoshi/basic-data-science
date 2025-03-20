@@ -1,0 +1,501 @@
+Roll No,Name,Gender,Age,Faculty,Level,Program,Year,Year of Study,GPA,Enrollment Status,Phone Number,Email
+100000,Student0,F,24,Law,Graduate,LLB,2024,4,3.1,Online,977-9889833788,student100000@university.edu
+100001,Student1,M,25,Management,Graduate,,2022,4,2.77,Physical,977-9823190889,student100001@university.edu
+100002,Student2,F,29,Engineering,Phd,Electrical,2022,2,2.67,,977-9826760704,student100002@university.edu
+100003,Student3,F,53,Education,Phd,Nepali,2023,2,3.47,Physical,977-9858318769,
+100004,Student4,M,,Engineering,Phd,Electrical,2024,2,3.11,Online,977-9850103564,student100004@university.edu
+100005,Student5,M,20,Law,Graduate,LLB,2024,4,2.53,Physical,,student100005@university.edu
+100006,Student6,M,30,Education,Phd,English,,2,3.62,Physical,977-9852137586,student100006@university.edu
+100007,Student7,M,24,Education,,English,2021,,2.57,,977-9884824233,student100007@university.edu
+100008,Student8,F,30,Management,Post Graduate,BBA,2023,3,2.76,Physical,977-9808319418,student100008@university.edu
+100009,Student9,M,31,,,,2021,,3.24,Online,,student100009@university.edu
+100010,Student10,M,56,,,,2021,,2.35,Online,,student100010@university.edu
+100011,Student11,F,19,Law,Graduate,LLB,,4,2.09,Online,977-9831949491,student100011@university.edu
+100012,Student12,M,33,Engineering,Phd,Electronic and Communication,2021,2,3.69,Physical,977-9825778960,student100012@university.edu
+100013,Student13,F,47,Management,Phd,BBM,2023,2,2.38,Physical,,student100013@university.edu
+100014,Student14,F,40,Management,Phd,BBS,2024,2,2.97,Physical,977-9809356712,
+100015,Student15,,53,,,,,,2.92,Physical,977-9826999093,student100015@university.edu
+100016,Student16,F,47,,,,2021,,2.64,,977-9859387390,student100016@university.edu
+100017,Student17,M,27,Engineering,Post Graduate,Architecture,2024,3,2.55,,977-9896634162,student100017@university.edu
+100018,Student18,F,27,Engineering,Post Graduate,Electronic and Communication,2024,3,2.78,Online,977-9866376109,student100018@university.edu
+100019,Student19,M,33,Engineering,Post Graduate,IT,2020,3,,Physical,977-9899174258,
+100020,Student20,M,32,Engineering,Post Graduate,,2023,3,3.01,Online,977-9849887812,student100020@university.edu
+100021,Student21,F,26,,,,,,3.87,Physical,977-9873413449,student100021@university.edu
+100022,Student22,F,,Management,Phd,,2023,2,3.42,Physical,977-9824746199,
+100023,Student23,F,31,Engineering,Post Graduate,Civil,2020,3,3.4,Online,977-9810660288,student100023@university.edu
+100024,Student24,F,35,,,,2020,,2.01,Physical,977-9830655076,
+100025,Student25,F,32,Management,,BBS,2020,,3.95,Physical,977-9857233480,
+100026,Student26,,20,Education,Graduate,Nepali,,4,3.34,Physical,977-9882915063,student100026@university.edu
+100027,Student27,M,59,Law,Phd,LLB,2024,2,2.11,Online,977-9800178191,student100027@university.edu
+100028,Student28,F,20,Law,Graduate,,,4,2.32,Physical,977-9860298846,student100028@university.edu
+100029,Student29,M,30,,,,2021,,3.45,Online,977-9898222611,student100029@university.edu
+100030,Student30,F,50,,,,,,,Online,,student100030@university.edu
+100031,Student31,F,23,Management,Graduate,BBA,2021,4,3.44,Online,977-9848135936,student100031@university.edu
+100032,Student32,,24,Law,Post Graduate,LLB,2022,3,,Physical,977-9866732804,student100032@university.edu
+100033,Student33,,32,Engineering,Phd,Architecture,2022,2,2.14,,977-9807461716,student100033@university.edu
+100034,Student34,F,45,Education,Phd,English,2023,2,3.68,Online,977-9852087529,student100034@university.edu
+100035,Student35,F,23,Law,Graduate,LLB,2022,4,2.32,,977-9865505081,student100035@university.edu
+100036,Student36,M,25,Engineering,Graduate,Electronic and Communication,2022,4,3.7,Online,977-9856904951,student100036@university.edu
+100037,Student37,M,,,,,,,2.13,Physical,977-9834294033,student100037@university.edu
+100038,Student38,M,31,Education,Post Graduate,Nepali,2023,3,,Online,977-9861173854,student100038@university.edu
+100039,Student39,M,,Law,Graduate,LLB,2022,4,3.83,Online,977-9815757530,student100039@university.edu
+100040,Student40,M,21,,,,,,2.28,Online,977-9881503319,student100040@university.edu
+100041,Student41,M,19,Law,Graduate,LLB,2022,4,,Online,977-9890178349,student100041@university.edu
+100042,Student42,M,31,Law,Post Graduate,LLB,2024,3,2.86,Physical,977-9858389010,student100042@university.edu
+100043,Student43,M,26,Engineering,Graduate,Computer,2020,4,3.89,Online,977-9892985962,student100043@university.edu
+100044,Student44,F,23,Management,Graduate,BBM,2024,4,2.04,,977-9810727696,
+100045,Student45,M,22,Engineering,Graduate,Computer,2022,4,3.33,,977-9813062069,student100045@university.edu
+100046,Student46,F,33,Engineering,Post Graduate,Architecture,2023,3,2.03,Physical,977-9813328585,student100046@university.edu
+100047,Student47,M,32,Law,Post Graduate,LLB,,3,3.13,Online,977-9830875260,student100047@university.edu
+100048,Student48,M,27,Law,Phd,LLB,2020,2,3.01,Online,977-9851288979,student100048@university.edu
+100049,Student49,M,35,,,,2024,,3.24,Online,977-9873247230,
+100050,Student50,F,20,Management,Graduate,BBA,2023,4,3.01,Physical,977-9857102846,student100050@university.edu
+100051,Student51,F,54,Education,Phd,Nepali,2023,2,3.41,Online,977-9818520567,
+100052,Student52,F,56,,,,2022,,3.29,Physical,977-9844727290,
+100053,Student53,F,55,Law,Phd,LLB,2020,2,2.78,Online,977-9819907374,student100053@university.edu
+100054,Student54,M,33,Education,Phd,English,2024,2,2.48,Online,977-9873486635,student100054@university.edu
+100055,Student55,F,23,Engineering,Graduate,Architecture,2020,4,2.96,Online,977-9847000697,student100055@university.edu
+100056,Student56,M,31,Management,Post Graduate,BBM,2020,3,3.87,Physical,977-9844163055,
+100057,Student57,M,54,Engineering,,Electronic and Communication,2023,,3.39,Online,,student100057@university.edu
+100058,Student58,F,29,Engineering,Post Graduate,Architecture,2022,3,3.54,Physical,977-9880871319,student100058@university.edu
+100059,Student59,F,26,Engineering,Post Graduate,IT,2021,3,2.39,Physical,977-9800385538,student100059@university.edu
+100060,Student60,F,,Management,Graduate,BBS,,4,,Physical,977-9821828469,student100060@university.edu
+100061,Student61,M,24,Education,Post Graduate,English,2022,3,2.28,Physical,,student100061@university.edu
+100062,Student62,F,32,Law,Post Graduate,LLB,2023,3,2.79,Physical,977-9854522694,student100062@university.edu
+100063,Student63,M,23,Law,Graduate,LLB,2020,4,3.65,Physical,977-9871571431,student100063@university.edu
+100064,Student64,M,26,Law,Graduate,LLB,2020,4,,Online,977-9880756719,student100064@university.edu
+100065,Student65,M,30,Management,Post Graduate,BBA,,3,2.35,Online,977-9880017357,student100065@university.edu
+100066,Student66,F,33,Education,Post Graduate,English,2022,3,3.42,Online,977-9827254604,
+100067,Student67,F,19,Law,,LLB,2021,,2.59,Online,977-9844833769,student100067@university.edu
+100068,Student68,F,28,Engineering,Post Graduate,IT,2024,3,3.14,Online,977-9812817589,student100068@university.edu
+100069,Student69,F,32,,,,2024,,2.71,Online,977-9830989096,student100069@university.edu
+100070,Student70,M,38,Engineering,Phd,Computer,2022,2,2.0,Physical,977-9836383740,student100070@university.edu
+100071,Student71,F,20,Engineering,Graduate,Civil,2023,4,3.42,Physical,977-9891944664,student100071@university.edu
+100072,Student72,,22,Education,Graduate,English,2021,4,2.33,Physical,977-9849089403,student100072@university.edu
+100073,Student73,F,31,Management,Post Graduate,BBM,,3,2.49,Online,977-9818820248,student100073@university.edu
+100074,Student74,F,48,Law,,LLB,2023,,2.3,,977-9817776013,student100074@university.edu
+100075,Student75,F,25,Management,Graduate,BBM,2024,4,2.07,Physical,977-9876526018,student100075@university.edu
+100076,Student76,F,58,Education,Phd,Nepali,2024,2,3.58,Physical,,student100076@university.edu
+100077,Student77,F,53,Law,Phd,LLB,2022,2,3.33,,977-9867802390,student100077@university.edu
+100078,Student78,,21,Management,Graduate,BBS,2021,4,2.22,Online,977-9863739694,student100078@university.edu
+100079,Student79,F,36,Management,Phd,BBS,2020,2,3.29,Online,977-9872969300,student100079@university.edu
+100080,Student80,M,48,Engineering,Phd,Civil,,2,2.2,Physical,,
+100081,Student81,,53,Law,Phd,LLB,2024,2,,Physical,,
+100082,Student82,F,28,Management,Post Graduate,BBM,,3,3.01,Physical,977-9821244654,student100082@university.edu
+100083,Student83,F,21,Engineering,Graduate,Electronic and Communication,2024,4,2.14,Physical,977-9837501080,student100083@university.edu
+100084,Student84,F,39,Engineering,Phd,Electronic and Communication,,2,2.83,Online,977-9832279365,student100084@university.edu
+100085,Student85,F,24,Management,Graduate,,2023,4,2.69,Online,,student100085@university.edu
+100086,Student86,F,28,Management,Post Graduate,BBS,,3,3.8,Physical,977-9844243896,student100086@university.edu
+100087,Student87,M,28,Education,Post Graduate,Nepali,2020,3,3.47,Physical,977-9894238727,student100087@university.edu
+100088,Student88,F,26,Management,Graduate,BBS,2024,4,3.48,Online,977-9800393235,student100088@university.edu
+100089,Student89,M,28,Law,Post Graduate,LLB,2021,3,3.92,,977-9810408850,student100089@university.edu
+100090,Student90,F,44,Management,Phd,BBM,2022,2,2.48,Physical,977-9821400339,student100090@university.edu
+100091,Student91,M,52,,,,2023,,3.1,Online,977-9847095512,student100091@university.edu
+100092,Student92,M,58,,,,2021,,3.55,Physical,977-9815743465,student100092@university.edu
+100093,Student93,M,26,Law,Post Graduate,LLB,2022,3,3.9,,,student100093@university.edu
+100094,Student94,F,29,Education,Phd,,2024,2,3.55,Online,,student100094@university.edu
+100095,Student95,M,19,Engineering,Graduate,Architecture,2020,4,3.9,Physical,977-9859372321,student100095@university.edu
+100096,Student96,F,20,Education,Graduate,,2024,4,2.18,Online,977-9862944272,student100096@university.edu
+100097,Student97,F,19,Engineering,Graduate,Computer,,4,2.57,Online,977-9852221228,student100097@university.edu
+100098,Student98,F,22,Engineering,Graduate,Civil,2023,4,3.34,Online,977-9865030440,student100098@university.edu
+100099,Student99,M,56,Education,Phd,Nepali,2022,2,3.26,Online,977-9810759967,student100099@university.edu
+100100,Student100,F,23,Education,Graduate,Nepali,2020,4,2.46,Physical,,student100100@university.edu
+100101,Student101,M,,Education,Phd,English,2024,2,2.87,Physical,977-9896601500,student100101@university.edu
+100102,Student102,M,20,,,,2020,,2.54,Physical,977-9879928663,student100102@university.edu
+100103,Student103,M,21,Law,Graduate,LLB,2020,4,2.83,Online,,student100103@university.edu
+100104,Student104,M,25,Education,Graduate,English,2022,4,2.68,Online,977-9851414078,student100104@university.edu
+100105,Student105,,27,Engineering,Post Graduate,Architecture,2022,3,2.34,Physical,977-9879534268,student100105@university.edu
+100106,Student106,F,50,Engineering,Phd,Computer,2022,2,2.2,Online,,student100106@university.edu
+100107,Student107,,51,Education,,English,2021,,,Online,977-9849013849,student100107@university.edu
+100108,Student108,F,29,Education,Post Graduate,Nepali,2022,3,3.3,Online,977-9857624164,student100108@university.edu
+100109,Student109,M,27,Education,Phd,Nepali,2023,2,2.68,Physical,,student100109@university.edu
+100110,Student110,,28,Management,Phd,,2023,2,3.7,,977-9829806413,student100110@university.edu
+100111,Student111,F,53,,,,2020,,3.37,Online,977-9889691471,student100111@university.edu
+100112,Student112,F,19,Education,Graduate,Nepali,2023,4,2.77,Online,977-9850347737,student100112@university.edu
+100113,Student113,,31,Law,,LLB,2022,,2.84,Online,977-9882590093,student100113@university.edu
+100114,Student114,F,,Education,Post Graduate,English,2023,3,2.71,Physical,977-9810632668,student100114@university.edu
+100115,Student115,F,49,,,,,,2.72,Physical,977-9880883744,
+100116,Student116,F,44,Law,Phd,,2020,2,3.43,,977-9868955586,student100116@university.edu
+100117,Student117,F,29,Engineering,Phd,Civil,2023,2,2.68,Online,,student100117@university.edu
+100118,Student118,F,25,Engineering,Graduate,Computer,2023,4,3.74,Physical,977-9846724568,student100118@university.edu
+100119,Student119,F,26,Engineering,Graduate,Architecture,2023,4,3.45,Online,977-9845414903,student100119@university.edu
+100120,Student120,,32,Management,Post Graduate,BBM,2023,3,3.24,Physical,977-9875463795,student100120@university.edu
+100121,Student121,F,30,Education,Phd,English,2022,2,3.72,Online,977-9856164283,student100121@university.edu
+100122,Student122,M,27,Management,Phd,BBM,2024,2,2.53,Online,977-9841618183,student100122@university.edu
+100123,Student123,M,32,Law,Phd,LLB,2023,2,,Online,977-9873457542,student100123@university.edu
+100124,Student124,F,29,Education,,Nepali,2022,,2.7,Online,977-9878636408,student100124@university.edu
+100125,Student125,M,26,Engineering,Post Graduate,Architecture,2022,3,2.79,Online,,student100125@university.edu
+100126,Student126,M,40,Law,Phd,LLB,2020,2,2.79,Physical,,student100126@university.edu
+100127,Student127,M,33,Education,Phd,English,2022,2,2.28,Physical,,student100127@university.edu
+100128,Student128,F,,Management,Phd,,2024,2,3.45,Online,,student100128@university.edu
+100129,Student129,M,44,Engineering,Phd,Electronic and Communication,2023,2,2.46,Online,977-9823499315,student100129@university.edu
+100130,Student130,M,56,,,,,,2.43,Online,977-9874626854,student100130@university.edu
+100131,Student131,M,39,Engineering,Phd,Electronic and Communication,2021,2,2.17,,977-9836001351,student100131@university.edu
+100132,Student132,M,46,Engineering,Phd,Civil,,2,2.79,Online,977-9802252798,student100132@university.edu
+100133,Student133,F,33,Management,Post Graduate,BBM,2020,3,2.21,Physical,977-9853328054,student100133@university.edu
+100134,Student134,M,28,Engineering,Post Graduate,Civil,2021,3,2.77,Physical,,student100134@university.edu
+100135,Student135,M,30,Management,Post Graduate,BBA,2020,3,3.0,Physical,977-9829054165,student100135@university.edu
+100136,Student136,,19,Education,Graduate,English,2020,4,,Physical,977-9808215697,student100136@university.edu
+100137,Student137,,26,Management,Phd,BBA,2023,2,3.17,Physical,977-9881018433,
+100138,Student138,M,29,Education,Post Graduate,Nepali,2023,3,2.51,Physical,977-9801748086,student100138@university.edu
+100139,Student139,F,25,,,,2024,,2.51,Physical,977-9858908335,student100139@university.edu
+100140,Student140,M,44,Management,Phd,BBS,2022,2,2.26,Physical,977-9870475748,student100140@university.edu
+100141,Student141,M,24,Management,Graduate,BBS,2020,4,2.3,Online,977-9846819573,student100141@university.edu
+100142,Student142,F,33,Management,Phd,,2023,2,2.82,Physical,977-9874797913,student100142@university.edu
+100143,Student143,F,26,Education,Phd,English,2020,2,2.67,Physical,977-9812306608,student100143@university.edu
+100144,Student144,F,34,Management,Post Graduate,BBA,,3,,Physical,977-9859692138,student100144@university.edu
+100145,Student145,F,39,Education,Phd,Nepali,2020,2,2.76,,977-9880490054,student100145@university.edu
+100146,Student146,M,39,Education,Phd,English,2020,2,3.51,Online,977-9804132009,student100146@university.edu
+100147,Student147,M,33,Engineering,Post Graduate,Architecture,2024,3,2.7,Physical,977-9837363044,student100147@university.edu
+100148,Student148,M,25,Law,,,2021,,2.55,Physical,977-9867320381,student100148@university.edu
+100149,Student149,F,47,Law,Phd,LLB,2020,2,2.78,Online,977-9834242478,student100149@university.edu
+100150,Student150,M,47,,,,2020,,2.23,Physical,977-9846417662,student100150@university.edu
+100151,Student151,M,29,Education,Post Graduate,Nepali,2020,3,3.71,Physical,977-9893009347,student100151@university.edu
+100152,Student152,M,37,Law,,LLB,2023,,2.41,Physical,977-9867118175,student100152@university.edu
+100153,Student153,M,24,Law,Post Graduate,LLB,2023,3,3.66,Online,977-9829055168,student100153@university.edu
+100154,Student154,M,26,Law,Graduate,LLB,2022,4,2.04,Physical,977-9863924080,student100154@university.edu
+100155,Student155,M,,Education,Graduate,Nepali,2024,4,2.32,Physical,977-9888561536,student100155@university.edu
+100156,Student156,F,29,Law,Post Graduate,LLB,2022,3,3.66,Physical,977-9800646382,student100156@university.edu
+100157,Student157,F,32,Law,,LLB,2022,,2.6,,977-9812304786,student100157@university.edu
+100158,Student158,M,,Management,Post Graduate,,2021,3,3.36,Physical,977-9845325277,student100158@university.edu
+100159,Student159,M,31,Engineering,Post Graduate,Electrical,2022,3,,Physical,977-9879655006,student100159@university.edu
+100160,Student160,F,35,Education,,English,2021,,3.34,Physical,977-9818999453,student100160@university.edu
+100161,Student161,M,24,Education,Post Graduate,English,2021,3,2.74,Physical,977-9815014821,student100161@university.edu
+100162,Student162,F,23,Engineering,Graduate,Civil,2020,4,2.12,Physical,977-9899782982,student100162@university.edu
+100163,Student163,,32,Law,Post Graduate,,2021,3,3.77,Online,,student100163@university.edu
+100164,Student164,F,47,Law,Phd,LLB,2022,2,2.81,Physical,977-9883871289,student100164@university.edu
+100165,Student165,,43,Management,Phd,BBS,2022,2,3.96,Online,,student100165@university.edu
+100166,Student166,M,,Law,Graduate,LLB,2021,4,2.38,Online,977-9822718884,student100166@university.edu
+100167,Student167,F,19,Engineering,Graduate,IT,2021,4,3.37,Physical,977-9896748805,student100167@university.edu
+100168,Student168,M,24,Engineering,Graduate,Electronic and Communication,2020,4,3.26,Physical,977-9844436328,student100168@university.edu
+100169,Student169,M,47,Education,Phd,Nepali,2023,2,2.93,Online,977-9860446570,student100169@university.edu
+100170,Student170,M,29,Law,Post Graduate,LLB,2023,3,2.49,Physical,977-9803288139,student100170@university.edu
+100171,Student171,M,26,Education,Post Graduate,Nepali,,3,2.62,Physical,977-9807005866,student100171@university.edu
+100172,Student172,M,29,,,,2024,,2.36,Online,977-9829102221,student100172@university.edu
+100173,Student173,M,25,,,,2022,,3.3,Physical,977-9873119841,student100173@university.edu
+100174,Student174,F,32,Management,Post Graduate,BBA,,3,2.62,Physical,977-9834779985,student100174@university.edu
+100175,Student175,M,22,Education,Graduate,Nepali,2023,4,3.2,Physical,977-9873692177,student100175@university.edu
+100176,Student176,F,21,Engineering,Graduate,,2021,4,2.27,,977-9853869799,
+100177,Student177,M,39,Law,Phd,LLB,2022,2,2.92,Physical,977-9821684654,student100177@university.edu
+100178,Student178,F,,Management,Post Graduate,BBS,2020,3,2.82,Online,977-9836348405,student100178@university.edu
+100179,Student179,F,45,Engineering,Phd,Electrical,2021,2,3.27,,977-9842522440,student100179@university.edu
+100180,Student180,F,51,Management,Phd,BBA,2023,2,3.88,,977-9872657558,student100180@university.edu
+100181,Student181,M,,Management,Phd,BBS,2023,2,2.89,Physical,977-9864699325,student100181@university.edu
+100182,Student182,M,34,Education,Post Graduate,English,2024,3,3.73,,977-9813562556,student100182@university.edu
+100183,Student183,M,28,Law,Post Graduate,LLB,,3,2.15,Online,977-9811421225,student100183@university.edu
+100184,Student184,F,39,Education,,English,2020,,,Physical,977-9892650206,student100184@university.edu
+100185,Student185,F,,Management,Graduate,BBA,,4,2.78,Online,977-9882152617,student100185@university.edu
+100186,Student186,F,55,,,,2023,,3.19,Physical,977-9873480189,student100186@university.edu
+100187,Student187,F,25,Education,Graduate,English,2023,4,2.97,Online,977-9865369711,student100187@university.edu
+100188,Student188,M,25,Engineering,Graduate,Architecture,2024,4,3.91,Online,977-9873560482,student100188@university.edu
+100189,Student189,F,49,Law,Phd,,2023,2,,Physical,977-9812318968,student100189@university.edu
+100190,Student190,M,19,Law,Graduate,LLB,2023,4,2.5,,977-9853652033,student100190@university.edu
+100191,Student191,M,43,Engineering,Phd,Electrical,2020,2,3.2,Online,977-9832419875,student100191@university.edu
+100192,Student192,M,21,Management,Graduate,BBA,2022,4,,Physical,977-9836299100,student100192@university.edu
+100193,Student193,F,30,Law,Phd,LLB,2022,2,3.33,Physical,977-9834945076,student100193@university.edu
+100194,Student194,F,26,Law,Post Graduate,LLB,2021,3,3.21,Physical,977-9858671782,student100194@university.edu
+100195,Student195,F,29,Engineering,,IT,2020,,3.56,Physical,977-9846794750,student100195@university.edu
+100196,Student196,M,31,Management,Post Graduate,BBA,2023,3,2.75,Online,977-9851925136,student100196@university.edu
+100197,Student197,M,34,Engineering,Post Graduate,Electrical,2024,3,,,977-9815581018,student100197@university.edu
+100198,Student198,M,50,Engineering,,Civil,2024,,2.96,Physical,977-9813653216,student100198@university.edu
+100199,Student199,,22,,,,,,2.47,Online,977-9831811274,student100199@university.edu
+100200,Student200,M,26,Management,Graduate,BBM,2021,4,2.98,Online,977-9819069091,student100200@university.edu
+100201,Student201,F,26,Law,Graduate,LLB,2021,4,3.75,Physical,977-9877785547,student100201@university.edu
+100202,Student202,,47,Education,Phd,Nepali,2020,2,2.92,Physical,,student100202@university.edu
+100203,Student203,,33,Engineering,Post Graduate,Electrical,2020,3,3.22,Physical,977-9882364232,
+100204,Student204,M,25,Engineering,Graduate,Electronic and Communication,2022,4,2.7,Physical,,student100204@university.edu
+100205,Student205,M,54,Engineering,Phd,Architecture,2023,2,2.42,Physical,977-9894719026,student100205@university.edu
+100206,Student206,F,57,Law,Phd,LLB,2023,2,2.3,Online,977-9806111911,student100206@university.edu
+100207,Student207,F,32,Law,Phd,LLB,2020,2,3.41,Physical,977-9806990347,student100207@university.edu
+100208,Student208,F,24,Education,Post Graduate,English,,3,3.52,Online,977-9897292995,student100208@university.edu
+100209,Student209,M,26,Education,Graduate,Nepali,2020,4,3.55,Physical,977-9805333980,student100209@university.edu
+100210,Student210,F,39,Education,Phd,English,2020,2,3.43,Online,977-9805101062,student100210@university.edu
+100211,Student211,M,,Management,Phd,BBA,2024,2,2.82,Online,977-9831797627,student100211@university.edu
+100212,Student212,,,Management,Graduate,BBA,2021,4,2.01,Online,977-9856657593,student100212@university.edu
+100213,Student213,F,,,,,2021,,,Online,977-9851625807,student100213@university.edu
+100214,Student214,M,27,Law,Post Graduate,LLB,2024,3,,Physical,977-9837720607,student100214@university.edu
+100215,Student215,F,22,Management,,BBM,2023,,2.94,Online,977-9894214818,student100215@university.edu
+100216,Student216,F,,Law,Graduate,LLB,2023,4,2.31,Online,977-9806480394,student100216@university.edu
+100217,Student217,F,28,Engineering,Phd,,2022,2,2.43,Online,977-9811682426,student100217@university.edu
+100218,Student218,F,20,,,,2024,,3.98,Online,977-9833500864,student100218@university.edu
+100219,Student219,M,38,,,,2021,,2.77,Online,977-9895478957,student100219@university.edu
+100220,Student220,M,44,Engineering,Phd,Electrical,2021,2,2.92,Online,977-9811823038,student100220@university.edu
+100221,Student221,F,24,Law,Graduate,LLB,2020,4,2.59,,977-9846958272,student100221@university.edu
+100222,Student222,F,32,Education,Post Graduate,Nepali,2024,3,2.16,,977-9851780906,student100222@university.edu
+100223,Student223,F,55,Education,Phd,Nepali,2020,2,3.81,Physical,977-9832455159,student100223@university.edu
+100224,Student224,M,33,Law,,LLB,2020,,,Physical,977-9888027694,student100224@university.edu
+100225,Student225,M,22,Education,Graduate,English,2021,4,2.16,Physical,977-9893852379,student100225@university.edu
+100226,Student226,M,27,Management,Post Graduate,BBA,2022,3,3.45,Online,977-9858060034,student100226@university.edu
+100227,Student227,M,22,Law,Graduate,LLB,,4,3.14,Physical,977-9813494824,student100227@university.edu
+100228,Student228,F,42,Engineering,Phd,Civil,2022,2,,Online,977-9854150642,student100228@university.edu
+100229,Student229,F,19,Education,Graduate,English,2024,4,2.2,Online,977-9810829128,student100229@university.edu
+100230,Student230,M,58,,,,2023,,2.12,Physical,977-9838540928,student100230@university.edu
+100231,Student231,M,19,Law,Graduate,LLB,2021,4,3.92,Online,977-9855075181,student100231@university.edu
+100232,Student232,M,21,Management,Graduate,BBS,2021,4,2.83,Online,,student100232@university.edu
+100233,Student233,M,31,Law,Post Graduate,LLB,2022,3,2.07,Online,977-9887396260,student100233@university.edu
+100234,Student234,F,38,,,,2020,,3.62,Online,977-9851184819,student100234@university.edu
+100235,Student235,F,36,Law,,LLB,2024,,2.81,Physical,977-9887948906,student100235@university.edu
+100236,Student236,M,,Education,Post Graduate,,2021,3,2.63,Physical,977-9803515629,student100236@university.edu
+100237,Student237,M,27,Management,Post Graduate,BBM,2022,3,3.85,,977-9878408135,student100237@university.edu
+100238,Student238,F,19,Law,Graduate,LLB,2024,4,2.45,Physical,,student100238@university.edu
+100239,Student239,M,27,Engineering,Post Graduate,Electrical,2022,3,2.31,Online,977-9875373772,
+100240,Student240,M,29,Management,Post Graduate,BBA,2022,3,2.22,Physical,977-9895414286,student100240@university.edu
+100241,Student241,F,32,Engineering,Phd,Architecture,2022,2,3.01,Online,977-9833618043,student100241@university.edu
+100242,Student242,F,24,Education,Graduate,Nepali,2023,4,,Online,977-9841355274,student100242@university.edu
+100243,Student243,F,,Education,Phd,Nepali,,2,2.59,Physical,977-9889201977,student100243@university.edu
+100244,Student244,F,29,Education,Post Graduate,Nepali,2023,3,3.57,,977-9879104407,student100244@university.edu
+100245,Student245,M,22,Law,Graduate,LLB,2020,4,3.07,Physical,977-9829543751,student100245@university.edu
+100246,Student246,M,33,,,,2020,,2.13,Online,,student100246@university.edu
+100247,Student247,M,51,Education,Phd,Nepali,2024,2,3.29,Online,977-9876810548,student100247@university.edu
+100248,Student248,F,28,Management,Post Graduate,,2020,3,2.74,Online,977-9878302338,student100248@university.edu
+100249,Student249,F,39,Engineering,Phd,Electronic and Communication,2023,2,2.16,Physical,977-9822660508,student100249@university.edu
+100250,Student250,M,22,Education,Graduate,Nepali,2022,4,3.16,Physical,977-9872588367,student100250@university.edu
+100251,Student251,F,23,Engineering,Graduate,IT,2023,4,3.17,Physical,977-9833064969,student100251@university.edu
+100252,Student252,,42,Education,Phd,Nepali,2023,2,2.26,Physical,977-9861340250,student100252@university.edu
+100253,Student253,M,40,Engineering,,Electronic and Communication,2020,,3.62,Physical,977-9834340319,student100253@university.edu
+100254,Student254,F,,,,,2024,,3.11,Online,977-9821354611,
+100255,Student255,M,27,Law,,,2020,,,Physical,977-9811748481,student100255@university.edu
+100256,Student256,M,28,,,,2024,,3.32,Physical,977-9816922901,student100256@university.edu
+100257,Student257,,44,Education,Phd,Nepali,2021,2,3.19,,977-9896998930,student100257@university.edu
+100258,Student258,M,30,Engineering,Phd,IT,2020,2,,Online,977-9885589577,student100258@university.edu
+100259,Student259,M,48,Law,,LLB,2020,,3.64,Physical,977-9848913458,
+100260,Student260,M,20,Management,Graduate,BBS,2021,4,3.13,Online,977-9864745269,student100260@university.edu
+100261,Student261,M,32,Engineering,Post Graduate,IT,2023,3,3.1,Online,977-9873597972,student100261@university.edu
+100262,Student262,M,32,Management,Post Graduate,BBM,2023,3,3.14,Online,977-9810892686,student100262@university.edu
+100263,Student263,M,19,Education,Graduate,English,2022,4,2.65,,977-9809480066,
+100264,Student264,,29,Education,Post Graduate,Nepali,2024,3,3.07,Physical,977-9832691695,student100264@university.edu
+100265,Student265,F,34,Engineering,Post Graduate,,2023,3,3.16,Physical,977-9814069307,student100265@university.edu
+100266,Student266,M,49,Management,Phd,BBM,2021,2,2.06,Physical,977-9832894479,student100266@university.edu
+100267,Student267,M,25,Management,Graduate,BBM,2023,4,2.72,Online,,student100267@university.edu
+100268,Student268,M,19,Management,Graduate,BBS,2024,4,2.14,Physical,977-9884207812,
+100269,Student269,F,19,Law,Graduate,LLB,2022,4,3.07,Physical,,student100269@university.edu
+100270,Student270,,48,,,,2024,,,Online,977-9899694079,student100270@university.edu
+100271,Student271,M,41,Education,Phd,,2023,2,3.39,Physical,977-9893471429,student100271@university.edu
+100272,Student272,,58,Education,Phd,Nepali,2022,2,2.05,Physical,977-9836793692,student100272@university.edu
+100273,Student273,M,,Law,Graduate,LLB,2024,4,2.36,Online,977-9858222485,student100273@university.edu
+100274,Student274,F,55,Management,Phd,BBA,2023,2,3.14,Physical,977-9831676334,student100274@university.edu
+100275,Student275,F,22,Education,Graduate,Nepali,,4,,Online,977-9807006514,student100275@university.edu
+100276,Student276,F,25,Education,Post Graduate,Nepali,2023,3,2.47,Online,977-9838329482,student100276@university.edu
+100277,Student277,F,28,Law,Post Graduate,LLB,2020,3,3.25,,977-9842463904,student100277@university.edu
+100278,Student278,,23,Education,Graduate,English,,4,3.44,,,student100278@university.edu
+100279,Student279,M,32,Management,Post Graduate,BBS,2022,3,,Physical,,student100279@university.edu
+100280,Student280,M,38,Education,Phd,English,2023,2,3.76,Online,,student100280@university.edu
+100281,Student281,M,45,Engineering,,Electrical,2020,,3.84,Online,,student100281@university.edu
+100282,Student282,F,20,Engineering,Graduate,Civil,2020,4,2.7,Physical,977-9869893036,student100282@university.edu
+100283,Student283,,33,Engineering,Phd,Computer,2022,2,3.82,Physical,977-9893007585,student100283@university.edu
+100284,Student284,F,29,Management,Post Graduate,BBA,2020,3,2.46,Physical,977-9889178652,student100284@university.edu
+100285,Student285,M,20,Management,Graduate,BBS,2023,4,3.29,Physical,977-9819376114,student100285@university.edu
+100286,Student286,F,31,Engineering,Phd,Architecture,2022,2,2.93,Online,977-9826521392,student100286@university.edu
+100287,Student287,F,36,Education,Phd,English,2021,2,3.5,Physical,977-9859127833,student100287@university.edu
+100288,Student288,M,24,Engineering,Graduate,Civil,2020,4,,Online,977-9894637876,student100288@university.edu
+100289,Student289,M,26,Management,Graduate,BBM,,4,3.36,Physical,977-9847340351,student100289@university.edu
+100290,Student290,F,33,Management,Phd,BBM,2022,2,2.8,Online,977-9850600722,
+100291,Student291,M,24,Engineering,Graduate,IT,2024,4,,Online,977-9860389739,student100291@university.edu
+100292,Student292,M,57,,,,2022,,3.57,Physical,977-9882463047,student100292@university.edu
+100293,Student293,F,25,,,,2020,,2.46,Online,977-9852071756,
+100294,Student294,M,34,Education,Phd,Nepali,2024,2,3.3,Physical,977-9894553294,student100294@university.edu
+100295,Student295,M,27,Engineering,Post Graduate,,2022,3,2.16,Physical,,student100295@university.edu
+100296,Student296,M,32,Management,Post Graduate,BBM,2022,3,3.12,,977-9881084221,student100296@university.edu
+100297,Student297,M,49,Engineering,,Computer,2021,,3.14,Physical,977-9822728083,student100297@university.edu
+100298,Student298,M,26,Engineering,Post Graduate,Civil,2022,3,2.82,Physical,977-9835782407,student100298@university.edu
+100299,Student299,M,53,Management,,BBS,2021,,3.84,Online,977-9836035577,student100299@university.edu
+100300,Student300,F,50,Engineering,Phd,Electrical,,2,2.78,Physical,977-9804864140,student100300@university.edu
+100301,Student301,F,47,Engineering,,Electrical,2020,,3.31,Physical,977-9840238401,student100301@university.edu
+100302,Student302,M,19,,,,2022,,2.63,Physical,977-9876188719,student100302@university.edu
+100303,Student303,F,34,Engineering,Post Graduate,Civil,,3,3.82,Online,977-9801156514,student100303@university.edu
+100304,Student304,M,52,Management,Phd,BBS,,2,3.03,Physical,977-9833284447,student100304@university.edu
+100305,Student305,F,29,Law,Post Graduate,LLB,2021,3,3.53,Physical,977-9870106965,
+100306,Student306,M,,Law,,LLB,2023,,,Physical,,student100306@university.edu
+100307,Student307,M,20,Law,Graduate,LLB,2020,4,,Online,977-9808778194,student100307@university.edu
+100308,Student308,M,26,Education,Post Graduate,,2024,3,3.93,Online,977-9882593282,student100308@university.edu
+100309,Student309,M,27,Engineering,Post Graduate,Electronic and Communication,2021,3,2.01,Physical,977-9878577292,student100309@university.edu
+100310,Student310,F,25,Education,Post Graduate,English,,3,2.28,Physical,977-9856194991,student100310@university.edu
+100311,Student311,M,46,Management,Phd,BBM,2020,2,,,977-9859690766,
+100312,Student312,F,38,Education,Phd,Nepali,2022,2,3.98,Physical,977-9864020787,student100312@university.edu
+100313,Student313,F,25,Education,Graduate,Nepali,2020,4,2.2,,977-9868169434,student100313@university.edu
+100314,Student314,M,,Management,Phd,BBM,,2,,,977-9838996199,student100314@university.edu
+100315,Student315,M,33,Management,Post Graduate,BBA,2020,3,3.95,Online,,student100315@university.edu
+100316,Student316,M,32,Management,Post Graduate,,2021,3,2.53,Online,,student100316@university.edu
+100317,Student317,F,32,Management,,BBM,2023,,2.3,Online,977-9834048549,student100317@university.edu
+100318,Student318,F,53,Management,Phd,BBM,2022,2,3.62,Online,977-9836743999,student100318@university.edu
+100319,Student319,F,25,Law,Graduate,LLB,,4,3.64,Online,977-9824533214,student100319@university.edu
+100320,Student320,F,34,Management,Phd,BBS,2024,2,2.61,Online,977-9845164044,student100320@university.edu
+100321,Student321,M,33,Management,Post Graduate,BBA,2024,3,2.86,Physical,977-9835000351,student100321@university.edu
+100322,Student322,M,22,Law,Graduate,LLB,,4,3.23,,977-9853175544,student100322@university.edu
+100323,Student323,,33,Engineering,,Civil,2024,,3.47,Online,977-9855187220,student100323@university.edu
+100324,Student324,F,53,Engineering,Phd,Architecture,2020,2,2.99,Physical,977-9821632883,student100324@university.edu
+100325,Student325,F,31,Law,Phd,LLB,,2,2.97,,977-9857311416,
+100326,Student326,M,33,Management,Phd,BBA,2024,2,2.69,Physical,,student100326@university.edu
+100327,Student327,F,38,Education,,Nepali,2022,,3.45,,977-9833306180,student100327@university.edu
+100328,Student328,F,24,Education,,English,2021,,2.86,Online,977-9812915235,student100328@university.edu
+100329,Student329,F,29,Law,Post Graduate,,2020,3,3.83,Physical,977-9815991893,student100329@university.edu
+100330,Student330,M,36,Law,Phd,LLB,2021,2,3.06,Physical,977-9810621181,student100330@university.edu
+100331,Student331,M,31,,,,2021,,2.55,Physical,977-9833512694,
+100332,Student332,M,30,Education,Phd,English,2020,2,2.23,Physical,977-9867170613,student100332@university.edu
+100333,Student333,M,23,Management,Graduate,BBA,2021,4,2.25,Online,977-9838261355,student100333@university.edu
+100334,Student334,M,26,Engineering,Post Graduate,IT,2023,3,2.62,Online,977-9856559180,student100334@university.edu
+100335,Student335,F,25,Law,Graduate,LLB,2020,4,3.72,Physical,977-9880937402,student100335@university.edu
+100336,Student336,F,,Management,Post Graduate,BBM,2022,3,2.1,,977-9860738705,
+100337,Student337,,45,Engineering,,IT,2021,,2.51,Physical,977-9804587742,student100337@university.edu
+100338,Student338,F,,Engineering,Graduate,,2023,4,2.26,Online,977-9835084269,student100338@university.edu
+100339,Student339,F,21,,,,2024,,,Physical,977-9813525512,student100339@university.edu
+100340,Student340,M,49,Law,,LLB,2023,,2.21,Physical,977-9864125847,student100340@university.edu
+100341,Student341,F,25,Law,Graduate,LLB,2022,4,3.86,Online,977-9808868160,student100341@university.edu
+100342,Student342,M,30,Management,Phd,BBM,,2,3.09,,977-9828043783,student100342@university.edu
+100343,Student343,M,59,Education,Phd,English,2023,2,2.36,Physical,977-9812004508,student100343@university.edu
+100344,Student344,M,26,Management,Phd,BBA,,2,2.6,Online,977-9874001934,
+100345,Student345,M,19,Law,Graduate,,2022,4,3.15,Online,,student100345@university.edu
+100346,Student346,,33,Engineering,Post Graduate,IT,2023,3,2.13,Online,977-9869293992,student100346@university.edu
+100347,Student347,,24,Engineering,Post Graduate,IT,2020,3,,Online,977-9863282547,student100347@university.edu
+100348,Student348,M,39,Engineering,Phd,IT,2022,2,2.11,Physical,977-9835557606,student100348@university.edu
+100349,Student349,M,,Management,Phd,BBA,2024,2,3.9,Physical,977-9811811443,student100349@university.edu
+100350,Student350,F,31,Education,Post Graduate,Nepali,2021,3,3.21,Online,977-9861993822,student100350@university.edu
+100351,Student351,M,,Management,Post Graduate,BBA,2024,3,2.06,Online,977-9811493572,student100351@university.edu
+100352,Student352,F,25,Law,Graduate,LLB,2021,4,2.37,Physical,977-9838407017,student100352@university.edu
+100353,Student353,M,25,Education,Graduate,English,2020,4,3.9,Physical,977-9867526127,
+100354,Student354,M,,Education,Phd,English,2023,2,2.65,Online,977-9892363045,student100354@university.edu
+100355,Student355,F,58,Management,Phd,BBA,2022,2,3.58,Online,977-9869650835,student100355@university.edu
+100356,Student356,M,41,Education,Phd,English,2023,2,2.61,Physical,977-9813180877,student100356@university.edu
+100357,Student357,,59,Management,Phd,BBS,,2,2.82,Online,977-9807359357,student100357@university.edu
+100358,Student358,M,31,Management,Post Graduate,BBM,2021,3,3.41,Online,977-9802258343,student100358@university.edu
+100359,Student359,M,54,Education,Phd,Nepali,2023,2,3.65,Online,977-9816314236,student100359@university.edu
+100360,Student360,M,31,Engineering,Phd,Electrical,2021,2,3.13,Online,977-9834205369,
+100361,Student361,F,27,Management,Post Graduate,BBS,2024,3,3.48,Physical,977-9893954101,student100361@university.edu
+100362,Student362,F,33,Law,Phd,LLB,2023,2,3.0,,977-9834348068,student100362@university.edu
+100363,Student363,M,37,Engineering,Phd,Electrical,2020,2,,Online,977-9893669668,student100363@university.edu
+100364,Student364,,27,Education,Post Graduate,,2021,3,2.51,Physical,977-9826878455,student100364@university.edu
+100365,Student365,F,32,Management,Post Graduate,,2023,3,2.85,Physical,977-9832134426,student100365@university.edu
+100366,Student366,F,57,Law,Phd,LLB,2023,2,,Physical,977-9843911350,student100366@university.edu
+100367,Student367,F,52,Management,,,2023,,3.5,,977-9866023595,student100367@university.edu
+100368,Student368,M,36,Education,Phd,Nepali,2020,2,3.45,Online,,student100368@university.edu
+100369,Student369,F,22,Law,Graduate,LLB,2024,4,3.12,Physical,977-9810335215,student100369@university.edu
+100370,Student370,M,25,Law,Post Graduate,LLB,2020,3,3.06,Physical,977-9893788502,student100370@university.edu
+100371,Student371,M,50,Education,,English,2021,,2.68,Physical,977-9846487026,student100371@university.edu
+100372,Student372,M,29,Management,,BBA,2024,,2.53,Online,977-9804520075,student100372@university.edu
+100373,Student373,F,26,Management,Phd,BBM,,2,3.04,Physical,977-9864540097,student100373@university.edu
+100374,Student374,F,23,Education,Graduate,English,2024,4,3.4,Online,977-9828905863,
+100375,Student375,M,32,Management,Post Graduate,BBA,2024,3,2.79,,977-9849208263,student100375@university.edu
+100376,Student376,M,,Law,Phd,LLB,2021,2,,Physical,977-9802497066,student100376@university.edu
+100377,Student377,,31,Education,Phd,Nepali,2021,2,2.65,Physical,977-9825350279,student100377@university.edu
+100378,Student378,F,24,Engineering,Post Graduate,Electronic and Communication,2020,3,3.87,,977-9892446130,student100378@university.edu
+100379,Student379,F,28,Law,Post Graduate,LLB,2022,3,3.5,Physical,,student100379@university.edu
+100380,Student380,M,45,Law,Phd,LLB,2022,2,2.45,Physical,977-9869560450,
+100381,Student381,M,30,Law,Post Graduate,LLB,2023,3,2.91,Online,977-9855619111,student100381@university.edu
+100382,Student382,M,26,Education,Post Graduate,,2021,3,2.65,Online,,student100382@university.edu
+100383,Student383,M,59,Management,,BBA,2024,,3.69,Physical,,student100383@university.edu
+100384,Student384,F,25,Education,Post Graduate,Nepali,2024,3,3.65,Online,977-9804770152,student100384@university.edu
+100385,Student385,F,,Law,Graduate,LLB,,4,2.53,Online,977-9825173442,student100385@university.edu
+100386,Student386,M,22,Law,Graduate,LLB,2022,4,2.38,Physical,,student100386@university.edu
+100387,Student387,F,30,Law,,LLB,2022,,3.73,Physical,977-9801938338,student100387@university.edu
+100388,Student388,M,47,Management,,,2023,,3.31,Online,977-9802963537,student100388@university.edu
+100389,Student389,M,43,Education,,Nepali,2020,,3.93,Online,977-9863768461,student100389@university.edu
+100390,Student390,F,41,Engineering,Phd,Civil,2021,2,3.16,Physical,977-9844548784,student100390@university.edu
+100391,Student391,F,25,Law,Graduate,LLB,2020,4,3.26,Physical,977-9885188524,student100391@university.edu
+100392,Student392,,19,Management,Graduate,BBA,2022,4,2.17,Physical,977-9845711140,student100392@university.edu
+100393,Student393,,24,Management,Graduate,,2022,4,2.35,Physical,977-9898679786,
+100394,Student394,F,27,Engineering,Phd,IT,2020,2,2.86,Physical,977-9830475772,
+100395,Student395,F,56,Education,Phd,English,2023,2,3.81,Physical,977-9882327204,student100395@university.edu
+100396,Student396,M,22,Law,Graduate,LLB,2023,4,3.97,Physical,977-9834308797,student100396@university.edu
+100397,Student397,M,25,Education,Graduate,Nepali,,4,3.43,Online,977-9823490558,student100397@university.edu
+100398,Student398,,,Management,Post Graduate,BBM,2022,3,3.08,Online,977-9861679543,student100398@university.edu
+100399,Student399,M,57,Management,Phd,BBS,2023,2,2.27,Physical,977-9859916815,
+100400,Student400,M,25,Engineering,Post Graduate,Electronic and Communication,2022,3,3.08,Physical,977-9803594242,student100400@university.edu
+100401,Student401,F,,Education,Post Graduate,,2020,3,2.38,,977-9875367893,
+100402,Student402,M,43,,,,2024,,3.65,Physical,977-9866437302,student100402@university.edu
+100403,Student403,M,27,Management,Phd,BBS,2024,2,2.98,Online,,
+100404,Student404,M,29,Education,Post Graduate,Nepali,2022,3,2.97,Physical,977-9823297851,
+100405,Student405,M,34,Management,Post Graduate,BBS,,3,3.38,Online,977-9815266965,student100405@university.edu
+100406,Student406,M,48,Engineering,,Architecture,2020,,2.33,,977-9875569894,student100406@university.edu
+100407,Student407,F,,Law,Graduate,LLB,2022,4,3.72,Physical,,
+100408,Student408,M,,Law,,LLB,2024,,,Physical,977-9823298093,student100408@university.edu
+100409,Student409,M,51,,,,2020,,,Physical,977-9859214758,student100409@university.edu
+100410,Student410,M,28,Engineering,,Computer,2023,,,Online,977-9831005792,student100410@university.edu
+100411,Student411,M,24,Law,Post Graduate,LLB,2021,3,2.19,Online,977-9883651128,
+100412,Student412,M,25,Education,Post Graduate,English,2023,3,2.87,Online,977-9871728456,student100412@university.edu
+100413,Student413,F,20,Law,Graduate,LLB,2021,4,,Physical,977-9868670933,student100413@university.edu
+100414,Student414,F,39,,,,2023,,3.68,Online,977-9826094090,student100414@university.edu
+100415,Student415,M,24,Engineering,Graduate,Civil,2020,4,2.34,Online,977-9877353546,student100415@university.edu
+100416,Student416,M,40,Law,Phd,LLB,2024,2,3.53,Online,977-9866834612,student100416@university.edu
+100417,Student417,M,27,Education,,Nepali,2021,,3.5,,977-9815339739,student100417@university.edu
+100418,Student418,M,38,Education,Phd,Nepali,2022,2,3.83,Physical,977-9898294402,student100418@university.edu
+100419,Student419,F,,Engineering,Phd,Electronic and Communication,2023,2,2.77,Online,977-9837564361,student100419@university.edu
+100420,Student420,F,56,Law,Phd,LLB,2022,2,2.95,Online,977-9864496609,student100420@university.edu
+100421,Student421,M,25,Engineering,Graduate,Architecture,2021,4,3.73,Online,977-9850931214,student100421@university.edu
+100422,Student422,F,56,Management,Phd,BBA,2024,2,3.49,Online,977-9879685087,student100422@university.edu
+100423,Student423,F,33,Education,Phd,,2020,2,3.7,Online,977-9814998030,student100423@university.edu
+100424,Student424,M,34,,,,2024,,3.83,Physical,977-9811353068,student100424@university.edu
+100425,Student425,F,23,Management,Graduate,BBA,2024,4,3.69,Physical,977-9821416700,student100425@university.edu
+100426,Student426,F,24,Education,Post Graduate,Nepali,2024,3,,,,
+100427,Student427,M,25,Engineering,Post Graduate,Architecture,2020,3,3.61,Online,977-9841030171,student100427@university.edu
+100428,Student428,M,59,Law,,LLB,2024,,3.3,Physical,977-9840993410,student100428@university.edu
+100429,Student429,M,48,Engineering,,IT,2022,,3.57,Physical,977-9813376090,student100429@university.edu
+100430,Student430,,26,Management,Graduate,BBM,2023,4,3.66,Physical,977-9813476451,student100430@university.edu
+100431,Student431,M,39,Law,Phd,LLB,2022,2,2.9,Online,977-9848711834,student100431@university.edu
+100432,Student432,F,21,Law,Graduate,,2023,4,,Online,977-9831152022,student100432@university.edu
+100433,Student433,M,28,Education,Phd,Nepali,2023,2,2.63,Physical,977-9852746376,student100433@university.edu
+100434,Student434,M,19,Management,Graduate,,2022,4,2.41,Online,977-9822189004,student100434@university.edu
+100435,Student435,F,,Management,Graduate,BBS,2023,4,2.75,Physical,977-9857502301,
+100436,Student436,M,25,Management,Graduate,,2023,4,2.89,Physical,977-9879235576,student100436@university.edu
+100437,Student437,F,19,Management,Graduate,,2022,4,3.43,Online,977-9830237590,
+100438,Student438,M,22,Law,,LLB,2023,,2.6,,977-9873418138,student100438@university.edu
+100439,Student439,F,,,,,,,2.92,Physical,977-9845793745,student100439@university.edu
+100440,Student440,F,32,Management,Post Graduate,BBS,2021,3,3.85,Physical,977-9819745891,student100440@university.edu
+100441,Student441,M,32,Management,Phd,BBS,2024,2,,Physical,977-9852211772,student100441@university.edu
+100442,Student442,F,19,Law,Graduate,,2023,4,3.0,Physical,977-9820300523,student100442@university.edu
+100443,Student443,M,39,,,,2024,,3.36,Physical,977-9865821289,student100443@university.edu
+100444,Student444,M,30,Engineering,Phd,Civil,2023,2,3.86,Online,977-9833366445,
+100445,Student445,F,48,Engineering,Phd,,,2,3.36,Physical,977-9828558052,student100445@university.edu
+100446,Student446,F,24,Law,Post Graduate,LLB,2022,3,2.08,,977-9812129840,student100446@university.edu
+100447,Student447,M,21,Engineering,Graduate,IT,2024,4,3.63,Online,977-9855537062,student100447@university.edu
+100448,Student448,F,,Management,Phd,BBA,2023,2,2.93,Online,,student100448@university.edu
+100449,Student449,F,38,,,,2020,,2.74,,977-9843511388,student100449@university.edu
+100450,Student450,F,27,Law,Phd,LLB,2022,2,3.68,Online,977-9838026204,student100450@university.edu
+100451,Student451,F,52,Education,Phd,Nepali,2022,2,,Physical,977-9894801000,student100451@university.edu
+100452,Student452,M,34,Education,Post Graduate,English,,3,2.92,,977-9822512197,
+100453,Student453,F,55,,,,2024,,2.54,Online,977-9818176248,student100453@university.edu
+100454,Student454,F,57,Engineering,Phd,Computer,2020,2,3.05,Physical,977-9802271381,student100454@university.edu
+100455,Student455,F,24,Education,Graduate,Nepali,2023,4,3.0,,977-9833993003,student100455@university.edu
+100456,Student456,M,24,Management,Graduate,BBS,2021,4,2.55,Online,977-9891376444,student100456@university.edu
+100457,Student457,M,34,Management,,BBS,2024,,2.66,Physical,977-9839423639,student100457@university.edu
+100458,Student458,F,26,Engineering,Graduate,Electronic and Communication,2024,4,2.61,Physical,977-9877092359,
+100459,Student459,F,19,Engineering,,Electronic and Communication,2020,,3.78,Physical,977-9848120462,student100459@university.edu
+100460,Student460,M,42,Engineering,Phd,Architecture,2021,2,2.89,Online,,student100460@university.edu
+100461,Student461,,28,Education,Post Graduate,English,2021,3,2.35,Physical,977-9830968976,student100461@university.edu
+100462,Student462,F,27,Management,Post Graduate,BBS,2024,3,3.71,Online,977-9898012444,student100462@university.edu
+100463,Student463,M,47,Management,Phd,BBA,2021,2,,,977-9854801767,student100463@university.edu
+100464,Student464,F,28,Education,Post Graduate,English,2022,3,2.47,Online,977-9884755360,student100464@university.edu
+100465,Student465,M,21,Education,Graduate,,2023,4,2.94,Physical,977-9877002659,student100465@university.edu
+100466,Student466,F,46,,,,2023,,2.14,Physical,977-9851024931,student100466@university.edu
+100467,Student467,F,26,Law,Phd,LLB,2023,2,3.04,Physical,977-9800351827,student100467@university.edu
+100468,Student468,M,41,Education,Phd,English,2022,2,3.19,Online,977-9891379034,
+100469,Student469,M,24,Law,Post Graduate,LLB,2021,3,3.64,Physical,977-9868912837,student100469@university.edu
+100470,Student470,M,33,Engineering,Post Graduate,Electrical,2023,3,2.74,Online,977-9839015432,student100470@university.edu
+100471,Student471,F,56,,,,2022,,,Physical,977-9886430612,
+100472,Student472,F,20,Engineering,Graduate,Electronic and Communication,2021,4,3.91,Online,977-9871161846,
+100473,Student473,M,56,,,,2024,,2.99,,977-9838522777,student100473@university.edu
+100474,Student474,F,48,Law,Phd,,2023,2,,Physical,,student100474@university.edu
+100475,Student475,F,31,Education,Phd,Nepali,2022,2,3.25,Physical,977-9813857569,student100475@university.edu
+100476,Student476,F,26,Education,Post Graduate,Nepali,2022,3,2.04,Physical,977-9861021719,student100476@university.edu
+100477,Student477,F,,Management,Phd,BBM,2022,2,2.14,,977-9892590267,student100477@university.edu
+100478,Student478,M,27,Management,Post Graduate,BBA,2024,3,3.7,Physical,977-9889462821,student100478@university.edu
+100479,Student479,,45,,,,2022,,2.2,Physical,977-9838891208,student100479@university.edu
+100480,Student480,M,28,Engineering,Phd,Electronic and Communication,2022,2,3.56,Online,977-9863400347,student100480@university.edu
+100481,Student481,M,29,Engineering,Post Graduate,Electronic and Communication,2023,3,,Online,977-9883604539,student100481@university.edu
+100482,Student482,M,34,Management,Phd,BBM,2020,2,3.7,Physical,977-9859885751,student100482@university.edu
+100483,Student483,M,33,Engineering,Post Graduate,IT,2022,3,,Online,977-9886805819,
+100484,Student484,F,57,Management,Phd,BBA,2024,2,3.66,Online,977-9850331829,
+100485,Student485,M,50,Education,Phd,Nepali,2024,2,2.5,Physical,977-9898551293,student100485@university.edu
+100486,Student486,F,21,Education,Graduate,English,2023,4,2.73,Physical,977-9856107792,student100486@university.edu
+100487,Student487,F,43,,,,2024,,,,,student100487@university.edu
+100488,Student488,F,,Education,,Nepali,2023,,3.08,Physical,,student100488@university.edu
+100489,Student489,M,28,Education,Post Graduate,Nepali,2024,3,3.05,Online,977-9885423451,student100489@university.edu
+100490,Student490,M,47,Education,Phd,Nepali,2020,2,3.72,Online,977-9854597874,student100490@university.edu
+100491,Student491,F,22,Engineering,Graduate,Architecture,2024,4,,Physical,977-9865368158,student100491@university.edu
+100492,Student492,F,47,Engineering,,Architecture,2020,,2.0,Online,,student100492@university.edu
+100493,Student493,F,52,Education,,English,2020,,3.25,,977-9845727530,student100493@university.edu
+100494,Student494,M,55,Management,Phd,BBA,2020,2,3.33,Physical,977-9871175517,student100494@university.edu
+100495,Student495,M,47,,,,2024,,3.28,Physical,977-9804020202,
+100496,Student496,F,51,Management,Phd,,2020,2,3.49,Online,977-9858513630,student100496@university.edu
+100497,Student497,F,27,Engineering,Phd,Electronic and Communication,2023,2,,Physical,977-9817818164,student100497@university.edu
+100498,Student498,F,29,,,,2022,,3.2,Online,977-9891195410,student100498@university.edu
+100499,Student499,F,38,Engineering,Phd,Architecture,2023,2,3.68,,977-9860858581,student100499@university.edu
